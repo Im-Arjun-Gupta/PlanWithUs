@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.decdb0db.css",
-    "main.js": "/my-app/static/js/main.8dc178c2.js",
-    "index.html": "/my-app/index.html",
-    "main.decdb0db.css.map": "/my-app/static/css/main.decdb0db.css.map",
-    "main.8dc178c2.js.map": "/my-app/static/js/main.8dc178c2.js.map"
+    "main.css": "/PlanWithUs/static/css/main.decdb0db.css",
+    "main.js": "/PlanWithUs/static/js/main.8dc178c2.js",
+    "index.html": "/PlanWithUs/index.html",
+    "main.decdb0db.css.map": "/PlanWithUs/static/css/main.decdb0db.css.map",
+    "main.8dc178c2.js.map": "/PlanWithUs/static/js/main.8dc178c2.js.map"
   },
   "entrypoints": [
     "static/css/main.decdb0db.css",
